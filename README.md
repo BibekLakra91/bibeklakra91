@@ -10,7 +10,7 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 
 ### Github
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
-
+```
 ### Poetic form to express the fact above
 Knowledge is a tapestry woven in layers, <br>
 Where wisdom's threads entwine with care.<br>
@@ -26,7 +26,7 @@ Each layer a realm, a world to explore,<br>
 Unlocking mysteries, revealing more.<br>
 Knowledge unfurls in a dance so grand,<br>
 A journey of mind, guided by hand.<br>
-
+```
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bibeklakra91/bibeklakra91/blob/output/github-snake-dark.svg" />
