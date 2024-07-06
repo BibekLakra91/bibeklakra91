@@ -11,5 +11,3 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 ### Github
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
 
-
-```
