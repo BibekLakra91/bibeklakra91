@@ -8,10 +8,12 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 🏫 EE graduate from IIT Kanpur.</br>
 ⚡ Fun fact: Knowledge reveals itself in layers. One must explore the surface to uncover the depths hidden beneath. 🧠</br>
 
-### Github
+### Github Stats:
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
 
-### Poetic form to express the fact above
+[![Bibek's current streak](https://streak-stats.demolab.com/?user=bibeklakra91&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+### Knowledge
 ```
 Knowledge is a tapestry woven in layers, 
 Where wisdom's threads entwine with care.
