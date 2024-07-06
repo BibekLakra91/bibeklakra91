@@ -12,18 +12,18 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
 
 ### Poetic form to express the fact above
-Knowledge is a tapestry woven in layers,
-Where wisdom's threads entwine with care.
-The surface reveals but a glimpse so bright,
-Yet depths await, hidden from sight.
+Knowledge is a tapestry woven in layers, <br>
+Where wisdom's threads entwine with care.<br>
+The surface reveals but a glimpse so bright,<br>
+Yet depths await, hidden from sight.<br>
 
-Through the veil of the first layer's grace,
-A second one whispers, a secret place.
-To grasp its essence, one must delve,
-Navigate the first to see oneself.
+Through the veil of the first layer's grace,<br>
+A second one whispers, a secret place.<br>
+To grasp its essence, one must delve,<br>
+Navigate the first to see oneself.<br>
 
-Each layer a realm, a world to explore,
-Unlocking mysteries, revealing more.
-Knowledge unfurls in a dance so grand,
-A journey of mind, guided by hand.
+Each layer a realm, a world to explore,<br>
+Unlocking mysteries, revealing more.<br>
+Knowledge unfurls in a dance so grand,<br>
+A journey of mind, guided by hand.<br>
 
