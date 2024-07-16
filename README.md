@@ -13,8 +13,7 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 
 [![Bibek's current streak](https://streak-stats.demolab.com/?user=bibeklakra91&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-GitHub is a warehouse of knowledge. My perspective of 
-### Knowledge:
+#### GitHub is a warehouse of knowledge. By Knowledge, I mean:
 ```
 Knowledge is a tapestry woven in layers, 
 Where wisdom's threads entwine with care.
