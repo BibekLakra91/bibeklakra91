@@ -9,6 +9,8 @@ The Aim of this Bio is to please the eyes of those who came to my profile by som
 ⚡ Fun fact: Knowledge reveals itself in layers. One must explore the surface to uncover the depths hidden beneath. 🧠</br>
 
 ### Github Stats:
+[![profile view](https://komarev.com/ghpvc/?username=bibeklakra91&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bibeklakra91)
+
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
 
 [![Bibek's current streak](https://streak-stats.demolab.com/?user=bibeklakra91&count_private=true&theme=blue-green&title_color=00b3ff)](#)
