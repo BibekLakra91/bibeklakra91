@@ -2,11 +2,11 @@
 
 <!--
 **mabhay3420/mabhay3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-This Bio aims to please the eyes of those who came to my profile by some chance. I am amazed by the intimidation of knowledge. It is not easy to get inspired to gain knowledge. My repository may help you to get inspired in your work or life. 😅
+This Bio aims to please the eyes of those who came to my profile by some chance. I am amazed by the intimidation of knowledge. It is not easy to get inspired to gain knowledge. My repository may help you to get inspired in your work or life 😅
 
 ### About Me:</br>
 🏫 EE graduate from IIT Kanpur.</br>
-⚡ Fun fact: Knowledge reveals itself in layers. One must explore the surface to uncover the depths hidden beneath. 🧠</br>
+⚡ Fun fact: Knowledge reveals itself in layers. One must explore the surface to uncover the depths hidden beneath </br>
 
 ### Github Stats:
 [![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibeklakra91&count_private=true&show_icons=true&theme=outrun)](https://github.com/bibeklakra91)
